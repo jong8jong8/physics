@@ -10,3 +10,6 @@
 - [Khan Academy - Physics library](https://www.khanacademy.org/science/physics)
 - [OpenStax - High School Physics](https://openstax.org/books/physics/pages/10-1-postulates-of-special-relativity)
 - [OpenStax - College Physics](https://openstax.org/details/books/college-physics)
+- [OpenStax - University Physics Vol.1](https://openstax.org/details/books/university-physics-volume-1)
+- [OpenStax - University Physics Vol.1](https://openstax.org/details/books/university-physics-volume-2)
+- [OpenStax - University Physics Vol.1](https://openstax.org/details/books/university-physics-volume-3)
