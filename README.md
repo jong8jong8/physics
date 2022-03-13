@@ -8,4 +8,5 @@
 - [MIT 8.02.3x Electricity and Magnetism: Maxwell’s Equations](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.3x+1T2019/about)
 - [MIT 8.03x Vibrations and Waves](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.03x+1T2020/about)
 - [Khan Academy - Physics library](https://www.khanacademy.org/science/physics)
-- [OpenStax - Physics](./osp.md)
+- [OpenStax - High School Physics](https://openstax.org/books/physics/pages/10-1-postulates-of-special-relativity)
+- [OpenStax - College Physics](https://openstax.org/details/books/college-physics)
